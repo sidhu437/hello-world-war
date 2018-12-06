@@ -3,7 +3,7 @@
 <title>Hello World!</title>
 </head>
 <body>
-	<h1>Hello venky!!</h1>
+	<h1>Hello VENKY</h1>
 	<you have sucessfully uploaded to tomcat>
 	<p>
 		It is now
