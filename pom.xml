@@ -30,7 +30,7 @@
             <id>maven-releases</id>
             <name>maven-Releases</name>
             <url>http://104.196.65.246:8081/repository/maven-releases/</url>
-	    <layout>default</>	
+	    <layout>default</layout>	
         </repository>
         <snapshotRepository>
             <id>maven-snapshots</id>
