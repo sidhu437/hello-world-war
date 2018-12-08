@@ -29,7 +29,7 @@
 	<repository>
             <id>maven-releases</id>
             <name>maven-Releases</name>
-            <url>http://104.196.65.246:8081/repository/maven-releases/</url>
+            <url>hhttp://104.196.65.246:8081/repository/maven-releases/</url>
 	    <layout>default</layout>	
         </repository>
         <snapshotRepository>
