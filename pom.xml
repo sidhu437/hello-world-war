@@ -26,17 +26,18 @@
 		</plugins>
 	</build>
 	  <distributionManagement>
-        <repository>
-            <id>deployment</id>
-            <name>Internal Releases</name>
-            <url>http://104.196.65.246:8081/repository/maven-releases/</url>
-        </repository>
-        <snapshotRepository>
-            <id>deployment</id>
-            <name>Internal Snapshot Releases</name>
-            <url>http://104.196.65.246:8081/repository/maven-snapshots/</url>
-        </snapshotRepository>
-    </distributionManagement>
+	<repository>
+		<id>deploymentRepo</id>
+		<name>Internal Releases</name>
+		<url>http://35.231.106.229:8081/repository/maven-releases/</url>
+	</repository>
+ 
+	<snapshotRepository>
+		<id>deploymentRepo</id>
+		<name>Internal Releases</name>
+		<url>http://35.231.106.229:8081/repository/maven-snapshots/</url>
+	</snapshotRepository>
+</distributionManagement>
 
 
 </project>
